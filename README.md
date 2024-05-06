@@ -7,4 +7,4 @@ When you select a data set of images in this application, it will later show you
 
 For example, if you give the data set consisting of lions and tigers. It will find which animal the picture you choose is.
 
-(https://i.hizliresim.com/ja065d5.png)
+![Screenshot of a public channel](https://i.hizliresim.com/ja065d5.png)
